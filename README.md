@@ -1,6 +1,6 @@
 # Island of Sky – Mobile Game Project
 
-<img src="https://github.com/user-attachments/assets/e1c302b6-e356-4e40-9d32-066e0923092e" alt="Island of Sky 대표 이미지" width="600"/>
+<img src= "https://github.com/user-attachments/assets/3073b3f8-7edb-4059-b8c8-227649f69547" alt="Island of Sky 대표 이미지" width="600"/>
 
 
 ### 🖊️ 요약
